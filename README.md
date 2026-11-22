@@ -1,4 +1,5 @@
-Library Management System
+Library Management System 
+Has folders such as agents,claude,windsurf,prisma,src,test which carry the important files.
 
 About the Project
 
