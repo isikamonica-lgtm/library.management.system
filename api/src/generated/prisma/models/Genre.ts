@@ -336,10 +336,6 @@ export type GenreScalarRelationFilter = {
   isNot?: Prisma.GenreWhereInput
 }
 
-export type NullableStringFieldUpdateOperationsInput = {
-  set?: string | null
-}
-
 export type GenreCreateNestedOneWithoutBooksInput = {
   create?: Prisma.XOR<Prisma.GenreCreateWithoutBooksInput, Prisma.GenreUncheckedCreateWithoutBooksInput>
   connectOrCreate?: Prisma.GenreCreateOrConnectWithoutBooksInput
