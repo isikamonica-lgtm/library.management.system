@@ -117,7 +117,7 @@ library-management-system/
 Current Progress
 
 - [x] Designed the database schema.
-- [x] Connected PostgreSQL through Supabase.
+- [x] Connected PostgreSQL through Neon Postgress
 - [x] Created and applied the initial migration.
 - [x] Added four genres to the database.
 - [x] Added fifteen sample books.
